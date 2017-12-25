@@ -1,1 +1,3 @@
-# deep_learning
+# Deep Learning
+
+Udacity Deep Learning Course
